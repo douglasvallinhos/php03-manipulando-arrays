@@ -1,4 +1,5 @@
 <?php
+namespace Alura;
 
 $nomes = "Douglas, Fran, Valdir, Stella, Jean, Carol";
 // explode é utilizado para fazer uma string virar um array
